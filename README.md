@@ -1,7 +1,7 @@
 # Sound-Russian-Roulette
 Pull the trigger, and your ears can live... or die.
 
-Last version: https://github.com/mariosumd/Sound-Russian-Roulette/releases/tag/1.0
+Latest version: https://github.com/mariosumd/Sound-Russian-Roulette/releases/tag/1.0
 Github page: http://mariosumd.github.io/Sound-Russian-Roulette/
 
 ### Sound Russian Roulette
